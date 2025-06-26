@@ -276,6 +276,10 @@ Links for general DB and uther useful resources:
 
 ### Citroen
 
+* [Citroen C5 X7 (2gen)](https://www.drive2.ru/l/534950890893739117/) - Body module LS CAN messages I.
+* [Citroen C5 X7 (2gen)](https://www.drive2.ru/l/560788039756941142/) - Body module LS CAN messages II (including CAN pinouts).
+* [Citroen C5 X7 (2gen)](https://www.drive2.ru/l/551286060269699839/) - Body module LS CAN messages III.
+
 ### Peugeot
 
 temporaly unsorted:
