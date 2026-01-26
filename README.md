@@ -139,7 +139,7 @@ Links for general DB and uther useful resources:
 
 ## Ford (Lincoln, Mercury)
 <!--lint disable no-repeat-punctuation-->
-* ~~[Ford](https://knowhow.windstar-club.de/index.php/PID-Codes)~~ - extended PIDs.
+* [Ford](https://web.archive.org/web/20190823053615/https://knowhow.windstar-club.de/index.php/PID-Codes) - extended PIDs.
 <!--lint enable no-repeat-punctuation-->
 <!--lint disable double-link-->
 * [Ford](https://github.com/andrewraharjo/CAN-Bus-Hack_Prius_Focus) - Escape 2010 LTD with Active Park Assist.
